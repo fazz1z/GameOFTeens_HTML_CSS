@@ -1,0 +1,103 @@
+span {
+    color:rgb(0, 80, 228);
+}
+p {
+    font-family: sans-serif, monospace;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.03em;
+    color: #212121;
+    margin: 0;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    text-align: center;
+}
+header p {
+    color: rgb(255, 200, 0);
+}
+img {
+    display: block;
+    width: 100%;
+}  
+.first-section {
+    height: 450px;
+    background-image: url(/assets/img/156844-1_large.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 158px;
+    box-sizing: border-box;
+    position: relative;
+}
+h2 {
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 42px;
+    text-transform: uppercase;
+    color: rgb(233, 231, 231);
+    text-align: center;
+    position: relative;
+    z-index: 2;
+    font-family: 'Roboto', sans-serif;
+}  
+hr {
+    background: #000000;
+    margin: 0 auto 40px;
+    width: 200px;
+    height: 2px;
+    border: none;
+}   
+.second-section img {
+    width: 50%;
+    display: inline-block;  
+    height: auto;
+}
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;      
+    text-align: center;
+    font-size: 35px;
+}
+.second-section p {
+    font-size: small;
+    text-align: center;
+    font-size: medium;
+}
+article {
+    text-align: center ;
+}
+article span {
+    color: crimson;
+}
+footer {
+    padding: 30px;
+    background: #2F303A;
+    color: #fff;
+    text-align: center;
+}
+footer a, address{
+    display: block;
+    margin: 8px 0 0;
+    color: rgba(255, 255, 255, .6);
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-size: 14px;
+    line-height: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+footer h2 {
+    font-family: sans-serif, monospace;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.03em;
+    color: #fff200;
+    margin: 0;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    text-align: center;
+}
+
