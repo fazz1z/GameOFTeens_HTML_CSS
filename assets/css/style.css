@@ -23,7 +23,7 @@ img {
 }  
 .first-section {
     height: 450px;
-    background-image: url(/assets/img/156844-1_large.jpg);
+    background-image:url(/assets/img/156844-1_large.jpg) ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
